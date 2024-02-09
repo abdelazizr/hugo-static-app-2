@@ -17,7 +17,6 @@ menu:
       url: "https://example.org"
       weight: 30
 
-
 homeInfoParams:
     Title: "Welcome Aziz Inc!!"
     Content: >
